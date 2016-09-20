@@ -1,0 +1,13 @@
+Title: Kirby Starterkit
+
+----
+
+Author: Author Name Here
+
+----
+
+Description: This is Adam Rasheed's Kirby Starterkit. It includes SCSS, a wiped clean single page, and some basic styles.
+
+----
+
+Copyright: © (date: Year) (link: http://getkirby.com text: Kirby)

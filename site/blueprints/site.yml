@@ -1,0 +1,62 @@
+title: Site
+pages: default
+
+fields:
+    title:
+        label: Title
+        type:  text
+    author:
+        label: Author
+        type:  text
+        
+    headshot:
+        label: Author Headshot
+        type: image
+        
+    description:
+        label: Description
+        type:  textarea
+        
+    title:
+        label: Job Title
+        type: text
+        icon: text
+        width: 1/2
+        
+    email:
+        label: Email Address
+        type: email
+        width: 1/2
+        
+    location:
+        label: Location
+        type: text
+    
+        
+    facebook:
+        label: Facebook
+        type: url
+        icon: facebook
+        width: 1/2
+        
+    twitter:
+        label: Twitter
+        type: url
+        icon: twitter
+        width: 1/2
+        
+    linkedin:
+        label: LinkedIn
+        type: url
+        icon: linkedin
+        width: 1/2
+        
+    github:
+        label: GitHub
+        type: url
+        icon: github
+        width: 1/2
+        
+    copyright:
+        label: Copyright
+        type:  textarea
